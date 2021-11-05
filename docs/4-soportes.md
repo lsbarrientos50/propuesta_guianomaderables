@@ -13,9 +13,7 @@ o creador de contenido, sin incluir aquellos desarrollados en GitHub o GitHub Pa
 de 20 puntos.
 {: .fs-1 .fw-300 }
 
-He sido docente y creador del contenido de más de 8 Aulas virtuales,[ver soporte](https://drive.google.com/file/d/1UXP1DkFBQLBI8D4J3vA-dQQRAqoazH_7/view?usp=sharing).
-
-![](/images/soporteAulasVirtuales.png)
+He sido docente y creador del contenido de más de 8 Aulas virtuales, [ver soporte](https://drive.google.com/file/d/1UXP1DkFBQLBI8D4J3vA-dQQRAqoazH_7/view?usp=sharing).
 
 
 ### Proyectos en Github Pages
@@ -56,9 +54,6 @@ de 40 puntos.
 {: .fs-1 .fw-300 }
 
 En la cuenta de GitHub [lsbarrientos50](https://github.com/lsbarrientos50) se encuentran todos los respositorios/proyectos actuales e históricos, **esta cuenta se encuentra activa desde el 2015**.
-
-![](propuesta_guianomaderables/images/1-repositoriols.png )
-![](/images/1-repositoriols.png)
 
 ### Documentos personales
 
