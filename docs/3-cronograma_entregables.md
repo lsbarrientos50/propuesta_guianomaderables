@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Cronograma
+title:  Cronograma & Entregables
 nav_order: 4
 has_children: false
 permalink: /cronograma
@@ -11,6 +11,7 @@ Basado en un tiempo estimado de ejecución del proyecto sería de 8 semanas.
 - Inicio: 15 de noviembre de 2021
 - Finalización: 14 de enero de 2022
 
+A lo largo de todas las etapas del proyecto se brindará soporte técnico.
 
 1. **Definición del diseño y esquema de la página**
     - Tiempo: 2 semanas
@@ -40,4 +41,12 @@ Basado en un tiempo estimado de ejecución del proyecto sería de 8 semanas.
         - Reunión para realizar la transferencia del repositorio del sitio. Encargado: Contratista y supervisor.
         - Reunión para hacer una capacitación sobre la administración del sitio. Encargado: Contratista y supervisor.
 
+
+# Entregables
+
+- Repositorio en GitHub con todos los contenidos del proyecto.
+- Sitio Web funcional.
+- Video tutorial de como administar el sitio y actualizar sus contenidos.
+- Soporte de la capacitación de la administración del sitio.
+- Informes que se estipulen en el contrato.
 
