@@ -13,6 +13,10 @@ o creador de contenido, sin incluir aquellos desarrollados en GitHub o GitHub Pa
 de 20 puntos.
 {: .fs-1 .fw-300 }
 
+He sido docente y creador del contenido de más de 8 Aulas virtuales,[ver soporte](https://drive.google.com/file/d/1UXP1DkFBQLBI8D4J3vA-dQQRAqoazH_7/view?usp=sharing).
+
+![](/images/soporteAulasVirtuales.png)
+
 
 ### Proyectos en Github Pages
 
@@ -55,3 +59,21 @@ En la cuenta de GitHub [lsbarrientos50](https://github.com/lsbarrientos50) se en
 
 ![](propuesta_guianomaderables/images/1-repositoriols.png )
 ![](/images/1-repositoriols.png)
+
+### Documentos personales
+
+En [este enlace](https://drive.google.com/drive/folders/1hxoOWI3w-BVA2wC-usuGNquUmp0c1um8?usp=sharing) se encuentra hoja de vida actualizada con los soportes que acreditan formación y experiencia del proponente.
+
+- Acta de grado pregrado
+- Acta de grado doctorado
+- Tarjeta profesional 
+- Certificado educación ambiental Biosfera de Colombia
+- Certificado laboral Universidad Jorge Tadeo Lozano
+- Certificado laboral Universidad de los Andes
+- Certificado Notas / cursos de  bioinformática y programación Universidad de los Andes
+- Certificado laboral Universidad del Rosario
+- Certificado cursos GitHub
+- Evidencia contenidos plataforma virtual Universidad del Rosario
+
+
+
