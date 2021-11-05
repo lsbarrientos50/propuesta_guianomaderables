@@ -14,7 +14,6 @@ Propuesta para el diseño y construcción de un sitio web usando GitHub Pages, q
 
 - **Proponente**: Lucas Santiago Barrientos Correa
 - **Tiempo de ejecución**: 8 semanas
-    - Inicio: 15 de noviembre de 2021
     - Finalización: 14 de enero de 2022
 - **Presupuesto**: $14.000.000 COP
 - **Filosofía**: Crear un sitio web con un diseño limpio, sencillo y centrado en los contenidos que sea facíl de editar y actualizar por los creadores de los contenidos.
