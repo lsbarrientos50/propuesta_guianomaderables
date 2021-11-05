@@ -53,4 +53,5 @@ de 40 puntos.
 
 En la cuenta de GitHub [lsbarrientos50](https://github.com/lsbarrientos50) se encuentran todos los respositorios/proyectos actuales e históricos, **esta cuenta se encuentra activa desde el 2015**.
 
+![](propuesta_guianomaderables/images/1-repositoriols.png )
 ![](/images/1-repositoriols.png)
