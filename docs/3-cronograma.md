@@ -12,9 +12,9 @@ Basado en un tiempo estimado de ejecución del proyecto sería de 8 semanas.
 - Finalización: 14 de enero de 2022
 
 
-1. Definición del diseño y esquema de la página
-    Tiempo: 2 semanas
-    Actividades:
+1. Definición del diseño y esquema de la página<br />
+    Tiempo: 2 semanas<br />
+    Actividades:<br />
     - Se propondrán 3 temas remotos de Jeklly para GitHub Pages. Encargado: Contratista.
     - Entrega y recepción de los insumos y contenidos que se alojaran en la página. Encargado: Supervisor.
     - Popuesta de navegación y tabla de contenidos. Encargado: Contratista
