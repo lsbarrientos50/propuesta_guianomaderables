@@ -24,13 +24,13 @@ Otra ventaje del uso de temas remotos es la fácilidad de actualización y perso
 Se identificarán los puntos fuertes de cada referente para definir un esquema de navegación y contenidos que se adapte a las necesidades del proyecto a la vez que permita una rápida migración de los contenidos en el tiempo disponible para le ejecución del contrato.
 
 Se utilizará como referente las páginas solicitadas:
-- https://sib-colombia.github.io/Formacion/
-- https://docs.gbif.org/course-data-mobilization/es/.
+- [https://sib-colombia.github.io/Formacion/](https://sib-colombia.github.io/Formacion/)
+- [https://docs.gbif.org/course-data-mobilization/es/](https://docs.gbif.org/course-data-mobilization/es/)
 
 Pero también otras de cursos exítosos
-- https://lukejharmon.github.io/pcm/chapters/
-- https://revbayes.github.io/tutorials/ 
-- http://revbayes.github.io/old-site/tutorials.html
+- [https://lukejharmon.github.io/pcm/chapters/](https://lukejharmon.github.io/pcm/chapters/)
+- [https://revbayes.github.io/tutorials/](https://revbayes.github.io/tutorials/)
+- [http://revbayes.github.io/old-site/tutorials.html](http://revbayes.github.io/old-site/tutorials.html)
 
 
 
