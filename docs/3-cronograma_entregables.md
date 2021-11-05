@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Cronograma y Entregables
-nav_order: 4
+nav_order: 3
 has_children: false
 permalink: /cronograma
 ---
