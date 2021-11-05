@@ -2,7 +2,7 @@
 layout: default
 title: Propuesta de valor
 nav_order: 2
-has_children: true
+has_children: false
 permalink: /propuestavalor
 ---
 
@@ -15,11 +15,13 @@ Se propone que los contenidos y lo formativo sean el eje central del sitio utili
 ## Diseño
 
 Se buscará un diseño atractivo pero que a la vez sea limpio y sencillo para enfocar a los usuarios de los contenidos.
-Como base del diseño se utilizará un [tema remoto de Jeklly diseñado para GitHub Pages](https://jekyllthemes.io/github-pages-themes), el tema exacto será defiido junto al supervisor. El uso de un tema remoto tiene la ventaja de reducir el tiempo de diseño ya que el 90% del código del sitio web es proveido por dicho tema.
-Sobre el tema remoto seleccionado se realizarán ajustes estéticos generales en los colores, peso del texto entre otros que sean necesario pero que permita
+Como base del diseño se utilizará un tema remoto de [Jeklly diseñado para GitHub Pages](https://jekyllthemes.io/github-pages-themes), el tema exacto será defiido junto al supervisor. El uso de un tema remoto tiene la ventaja de reducir el tiempo de diseño ya que el 90% del código del sitio web es proveido por dicho tema.
+Sobre el tema remoto seleccionado se realizarán ajustes estéticos generales en los colores, peso del texto entre otros que sean necesarios, pero que permita una rápida definición de la estética del sitio para disponer de mayor tiempo para la organización y migración de los contenidos.
 Otra ventaje del uso de temas remotos es la fácilidad de actualización y personalización a futuro en caso de que el proyecto decida hacer cambios mayores en la hoja de estilos más adelante.
 
 ## Referentes
+
+Se identificarán los puntos fuertes de cada referente para definir un esquema de navegación y contenidos que se adapte a las necesidades del proyecto a la vez que permita una rápida migración de los contenidos en el tiempo disponible para le ejecución del contrato.
 
 Se utilizará como referente las páginas solicitadas:
 - https://sib-colombia.github.io/Formacion/
@@ -31,4 +33,4 @@ Pero también otras de cursos exítosos
 - http://revbayes.github.io/old-site/tutorials.html
 
 
-Se identificarán los puntos fuertes de cada referente para definir un esquema de navegación y contenidos que se adapte a las necesidades del proyecto a la vez que permita una rápida migración de los contenidos en el tiempo disponible para le ejecución del contrato.
+
