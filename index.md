@@ -27,7 +27,7 @@ se enmarca dentro del programa Partnerships for Forests, financiado por el Gobie
 proyecto tiene como fin contribuir a la implementación de la normativa asociada al manejo sostenible
 de la flora silvestre y de los productos no maderables.
 
-## Enfoque de la página
+## Enfoque del sitio web
 
 El propósito es encontrar la mejor manera para que los productos del proyecto “Promoviendo los Productos Forestales no Maderables en Colombia”, le lleguen de una manera fácil a la mayor cantidad de personas y que de esta manera puedan usar esta plataforma sus productos y servicios para promover y como soporte para la elaboración de talleres enfocados en los recursos forestales no maderables de Colombia. Generando una percepción clara para que esta plataforma funcione como una herramienta comunicativa y de formación para los diferentes usuarios.
  
