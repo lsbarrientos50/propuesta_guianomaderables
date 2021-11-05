@@ -20,24 +20,24 @@ Información para cubrir el criterio de evaluación del perfil #2: Se otorgarán
 de 40 puntos.
 {: .fs-1 .fw-300 }
 
-A continuación se listan los proyectos desarollados dentro de mi labor docente, se incluye una 4ta página que corresponde a esta propuesta:
+A continuación se listan los proyectos desarollados dentro de mi labor docente, se incluye una 4to proyecto que corresponde a esta propuesta:
 
 ##### Página Personal
 - Página: [https://lsbarrientos50.github.io](https://lsbarrientos50.github.io)
 - Repositorio: [https://github.com/lsbarrientos50/lsbarrientos50.github.io](https://github.com/lsbarrientos50/lsbarrientos50.github.io)
 
 
-#### Curso de Sistemática Filogenética
+##### Curso de Sistemática Filogenética
 - Página: [https://lsbarrientos50.github.io/phylogenetic-systematics/](https://lsbarrientos50.github.io/phylogenetic-systematics/)
 - Repositorio: [https://github.com/lsbarrientos50/phylogenetic-systematics](https://github.com/lsbarrientos50/phylogenetic-systematics)
 
 
-#### Blog curso Cocina Ciencia Biodiversidad
-- Página: [https://lsbarrientos50.github.io/phylogenetic-systematics/](https://lsbarrientos50.github.io/phylogenetic-systematics/)
-- Repositorio: [https://github.com/lsbarrientos50/phylogenetic-systematics](https://github.com/lsbarrientos50/phylogenetic-systematics)
+##### Blog curso Cocina Ciencia Biodiversidad
+- Página: [https://lsbarrientos50.github.io/cocina_ciencia_biodiversidad/](https://lsbarrientos50.github.io/cocina_ciencia_biodiversidad/)
+- Repositorio: [https://github.com/lsbarrientos50/cocina_ciencia_biodiversidad](https://github.com/lsbarrientos50/cocina_ciencia_biodiversidad)
 
 
-#### Propuesta para proyecto 'Promoviendo los Productos Forestales no Maderables en Colombia'
+##### Propuesta para proyecto 'Promoviendo los Productos Forestales no Maderables en Colombia'
 - Página: [https://lsbarrientos50.github.io/propuesta_guianomaderables/](https://lsbarrientos50.github.io/propuesta_guianomaderables/)
 - Repositorio: [https://github.com/lsbarrientos50/propuesta_guianomaderables](https://github.com/lsbarrientos50/propuesta_guianomaderables)
 
