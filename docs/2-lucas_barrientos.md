@@ -9,7 +9,7 @@ permalink: /lucas_brrientos
 Lucas S. Barrientos Correa
 {: .fs-9 .fw-300 }
 
-### QuiÉn Soy
+### Quién Soy
 
 Tengo más de 10 años de experiencia en docencia universitaria, en investigación y en trabajo con comunidades. Dentro de cada uno de estos procesos he aprendido la importancia de darle prevalencia de ser claros en la transmisión de la información y el uso de sistemas claros y limpios que no generen distracciones al usuario final. En particular he encontrado como el uso de nuevas tecnologías y el uso de plataformas digitales como GitHub permite dar acceso a diferentes niveles de información, pero también es una herramienta que permite el desarrollo de aproximaciones colaborativas tanto en la investigación como en la docencia y el trabajo comunitario. 
 
