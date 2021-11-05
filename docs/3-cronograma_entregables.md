@@ -8,7 +8,6 @@ permalink: /cronograma
 
 # Cronograma
 Basado en un tiempo estimado de ejecución del proyecto sería de 8 semanas. 
-- Inicio: 15 de noviembre de 2021
 - Finalización: 14 de enero de 2022
 
 A lo largo de todas las etapas del proyecto se brindará soporte técnico.
