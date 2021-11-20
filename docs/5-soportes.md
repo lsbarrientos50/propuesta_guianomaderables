@@ -72,3 +72,5 @@ En [este enlace](https://drive.google.com/drive/folders/1hxoOWI3w-BVA2wC-usuGNqu
 
 
 
+![](/images/soporteAulasVirtuales.png)
+<img title="a title" alt="Alt text" src="/images/soporteAulasVirtuales.png">
