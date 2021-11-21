@@ -1,6 +1,7 @@
 title: Propuesta
 description: Promoviendo los Productos Forestales no Maderables en Colombia.
-remote_theme: pmarsceill/just-the-docs
+#remote_theme: pmarsceill/just-the-docs
+remote_theme: kevinlin1/just-the-class 
 
 # Back to top link
 back_to_top: true
