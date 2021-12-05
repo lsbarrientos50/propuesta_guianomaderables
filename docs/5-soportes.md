@@ -108,3 +108,4 @@ hvhf hghjg hghjgjhg
        |
 
 
+{% include image.html url="/images/soporteAulasVirtuales.png" description="" %}
