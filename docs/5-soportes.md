@@ -100,7 +100,7 @@ c
         <strong>Ejemplo</strong>
    </td>
    <td>
-    <strong>Nombre comun</strong>
+    <img title="a title" alt="Alt text" src="/images/soporteAulasVirtuales.png">
    </td>
   </tr>
   <tr>
