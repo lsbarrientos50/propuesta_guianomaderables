@@ -74,7 +74,11 @@ En [este enlace](https://drive.google.com/drive/folders/1hxoOWI3w-BVA2wC-usuGNqu
 
 ![](/images/soporteAulasVirtuales.png)
 <img title="a title" alt="Alt text" src="/images/soporteAulasVirtuales.png">
-
+a
 ![Sin título 2 copia](https://user-images.githubusercontent.com/10567184/144729075-aa6cd188-e77d-4339-b978-79002b48ad7b.jpg)
+b
+![Sin título 2 copia](https://raw.githubusercontent.com/lsbarrientos50/propuesta_guianomaderables/main/images/soporteAulasVirtuales.png)
+c 
+![Sin título 2 copia](/images/soporteAulasVirtuales.png)
 
 
