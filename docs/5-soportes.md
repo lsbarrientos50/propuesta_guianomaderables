@@ -95,3 +95,16 @@ jjbjb
 |--------------|-----------|------------|
 | Juicy Apples | 1.99      | *7*        |
 | Bananas      | **1.89**  | 5234       |
+
+
+hvhf hghjg hghjgjhg
+
+
+
+| Item         | Price     | # In stock |
+|--------------|-----------|------------|
+| Juicy Apples | 1.99      | *7*        |
+| Bananas      | **1.89**  | ![Sin título 2 copia](https://raw.githubusercontent.com/lsbarrientos50/propuesta_guianomaderables/main/images/soporteAulasVirtuales.png)
+       |
+
+
